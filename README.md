@@ -115,7 +115,8 @@ return 0;
 ```
 
 ## OUTPUT
-<img width="1105" height="312" alt="image" src="https://github.com/user-attachments/assets/d2dd3df3-4217-4cfb-9e65-dc1753b8c6d5" />
+<img width="520" height="267" alt="Screenshot 2026-11-18 142327" src="https://github.com/user-attachments/assets/2754d4a1-625f-4889-b703-74236d532110" />
+
 
 
 ## RESULT
